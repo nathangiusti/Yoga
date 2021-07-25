@@ -1,4 +1,4 @@
-#Tadasana
+# Tadasana
 
 [Summary](#summary)
 
@@ -16,7 +16,7 @@
 
 [Transitions Into](#transitions-into)
 
-##Summary
+## Summary
 
 English Translation: 
 
@@ -33,17 +33,17 @@ Activations:
 
 Orientation: Standing
 
-##Overview
+## Overview
 
 Tadasana is widely considered the base pose for yoga. It is almost identical to the standard anatomical position. The only difference is optional. Some choose to rotate their palms to face forward, otherwise the palms may be kept turned towards the thigh. 
 
 Feet can be places together or hips width distance apart. Closer together encourages balance but may not be possible for all anatomically. 
 
-##Name
+## Name
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-##Skeletomusclar Overview
+## Skeletomusclar Overview
 
 Shoulders
 
@@ -80,7 +80,7 @@ Ankle
 - Doriflex/Plantarflex: Neutral
 
 
-##Cues
+## Cues
 
 - Feet ground down either together or hips distance
 - Arches lift
@@ -92,17 +92,15 @@ Ankle
 - Crown of the head lifts
 - Face relaxes
 - Gaze forward
-- Chin parallel to the fllor
+- Chin parallel to the floor
 
 
-##Variations
+## Variations
 
 [Anjali Mudra](Anjali Mudra.md)
 
-##Transitions From
+## Transitions From
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-##Transitions Into
+## Transitions Into
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
