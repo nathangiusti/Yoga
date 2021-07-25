@@ -97,7 +97,7 @@ Ankle
 
 ## Variations
 
-[Anjali Mudra](Anjali Mudra.md)
+Anjali Mudra
 
 ## Transitions From
 
