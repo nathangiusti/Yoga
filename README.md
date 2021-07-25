@@ -2,4 +2,4 @@
 
  A Yoga Markdown Wiki
 
-[[Test]]
+[Tadasana](Tadasana.md)
