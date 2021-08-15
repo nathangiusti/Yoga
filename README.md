@@ -2,4 +2,4 @@
 
  A Yoga Markdown Wiki
 
-[Tadasana](Tadasana.md)
+[Tadasana](Output/Tadasana.md)
