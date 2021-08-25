@@ -23,17 +23,15 @@ def read_template_file(title):
 
 def init_headers(values):
     header_dict = {}
-    i = 0
-    for value in values:
+    for i, value in enumerate(values):
         header_dict[value] = i
-        i = i + 1
     return header_dict
 
 
 def clear_output():
-    dir = 'Output'
-    for f in os.listdir(dir):
-        os.remove(os.path.join(dir, f))
+    output_dir = 'Output'
+    for f in os.listdir(output_dir):
+        os.remove(os.path.join(output_dir, f))
 
 
 def generate_page(header_dict, values, template):
@@ -56,12 +54,6 @@ def main():
         template_file = read_template_file(page.title)
         for i in range(1, len(values)):
             generate_page(header_dict, values[i], template_file)
-
-
-
-
-
-
 
 
 if __name__ == '__main__':
